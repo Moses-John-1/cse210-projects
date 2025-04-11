@@ -1,0 +1,4 @@
+0
+SimpleGoal|give a talk|speack in the secrament meeting when ask |100|False
+EternalGoal|study the scripture|study for 10 minute|50
+ChecklistGoal|atten the temple|atten and perform any orderment|50|3|500|0

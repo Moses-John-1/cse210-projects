@@ -1,0 +1,4 @@
+0
+SimpleGoal:morning exercise|20 push up in the moring|50|False
+EternalGoal:read bible|read buble 10 minute before bed time|50
+ChecklistGoal:finish assignment|finishes my assignment before due date|50|3|200|0
